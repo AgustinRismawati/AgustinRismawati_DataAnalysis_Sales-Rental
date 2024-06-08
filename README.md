@@ -1,4 +1,4 @@
-# AgustinRismawati_DataAnalysis_Sales-Rental
+# AgustinRismawati_DataAnalysis_Sales&Rental
 Dalam dunia bisnis yang terus bergerak cepat, peran seorang Analis Data sangat vital. Mereka tidak hanya mengolah data, tetapi juga menyajikan wawasan yang mendalam untuk mendukung pengambilan keputusan strategis. Dari menjelajahi data hingga memprediksi tren masa depan, Analis Data menggunakan berbagai alat dan teknik, mulai dari eksplorasi data hingga pemodelan prediktif menggunakan algoritma machine learning.
 
 Repositori ini menjadi simpanan pengetahuan dan pengalaman yang berharga, di mana pemahaman dasar analisis data disampaikan dengan dua bahasa pemrograman yang paling relevan, yakni PYTHON dan SQL. Di sini, tersedia juga proyek-proyek menarik yang didasarkan pada studi kasus dunia nyata, memberikan wawasan praktis bagi para pembelajar.
